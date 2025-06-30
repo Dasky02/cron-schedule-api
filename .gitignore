@@ -1,0 +1,11 @@
+# virtuální prostředí
+venv/
+
+# Python build
+__pycache__/
+*.py[cod]
+
+# macOS / IDE nepořádek
+.DS_Store
+.idea/
+.vscode/
